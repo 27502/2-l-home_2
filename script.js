@@ -32,4 +32,4 @@ addUserBtn.addEventListener('click', () => {
   renderUsers();
 });
 
-renderUsers();
+// renderUsers();
